@@ -268,11 +268,23 @@ ul5{
     color: #545454;
     text-align: center;
 }
+
 #mywork{
     display: grid;
     grid-template-columns: auto auto;
     padding: 200px;
     align-items: center;
+}
+#projects{
+    padding: 20px;
+}
+h7{
+    font-size: 80px;
+    font-family: "bodoni moda", Serif;
+    color:#525252;
+    padding-left: 160px;
+    padding-top: 50px;
+ position: absolute;
 }
 #SalishSea{
     padding: 20px;
